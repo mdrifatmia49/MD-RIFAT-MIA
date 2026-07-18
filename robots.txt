@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mdrifatmia49.github.io/mdrifatmia/sitemap.xml
